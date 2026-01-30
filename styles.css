@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body {
+    min-height: 100vh;
+    background-image: url(c0fcb5e56019e8c0c5aa6c7d3fc7a060.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    border: 2px solid rgba(255,255,255,0.2);
+}
