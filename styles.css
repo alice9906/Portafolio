@@ -24,7 +24,7 @@ body {
     font-family: 'Segueo UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     min-height: 100vh;
     color: var(--light-text);
-    background-image: url(c0fcb5e56019e8c0c5aa6c7d3fc7a060.jpg);
+    background-color: #3b087d;
     background-size: cover;
     line-height: 1.6;
     background-position: center;
